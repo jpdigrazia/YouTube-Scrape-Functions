@@ -9,7 +9,7 @@ items = list(indat['url'])  #need to clean up input
 ids = list(indat['id'])
 
 #download location
-vd_path="C:\\Users\\Joseph.DiGrazia\\OneDrive - 365shl\\YouTube Project\\video downloads"
+vd_path="\\video downloads"
 
 
 def yscrape(items, vd_path, ids):
